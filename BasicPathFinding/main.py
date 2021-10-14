@@ -29,10 +29,10 @@
 
         - You do not have to deal with implementing a stack,
         however it will be used in the algorithm. Check out the file
-        Stack.py in the classes directory for further detail
+        stack.py under the classes directory for further detail
 
         - You do not have to implement the Point class, but you
-        should use it in the algorithm for recording your moves
+        should use it in the algorithm for recording your moves.
 
         - You should implement a class for the algorithm (for example,
         a class named Algorithm) and run it in the "main.py"
